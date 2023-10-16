@@ -1,1 +1,4 @@
-# 101356457_COMP3123_Assignment1
+# COMP3123 Assignment 1
+
+Done by: Samuel Ntambwe
+Student ID: 101356457
